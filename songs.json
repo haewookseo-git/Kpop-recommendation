@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Dynamite",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "BE",
+    "releaseDate": "2020-08-21"
+  },
+  {
+    "id": 2,
+    "title": "Butter",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Butter",
+    "releaseDate": "2021-05-21"
+  },
+  {
+    "id": 3,
+    "title": "Permission to Dance",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Butter",
+    "releaseDate": "2021-07-09"
+  },
+  {
+    "id": 4,
+    "title": "How You Like That",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "THE ALBUM",
+    "releaseDate": "2020-06-26"
+  },
+  {
+    "id": 5,
+    "title": "DDU-DU DDU-DU",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "SQUARE UP",
+    "releaseDate": "2018-06-15"
+  },
+  {
+    "id": 6,
+    "title": "Kill This Love",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "Kill This Love",
+    "releaseDate": "2019-04-05"
+  },
+  {
+    "id": 7,
+    "title": "Pink Venom",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "BORN PINK",
+    "releaseDate": "2022-08-19"
+  },
+  {
+    "id": 8,
+    "title": "Shut Down",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "BORN PINK",
+    "releaseDate": "2022-09-16"
+  },
+  {
+    "id": 9,
+    "title": "Gangnam Style",
+    "artist": "PSY",
+    "group": "Solo",
+    "album": "PSY 6 (Six Rules), Part 1",
+    "releaseDate": "2012-07-15"
+  },
+  {
+    "id": 10,
+    "title": "Gentleman",
+    "artist": "PSY",
+    "group": "Solo",
+    "album": "Gentleman",
+    "releaseDate": "2013-04-12"
+  },
+  {
+    "id": 11,
+    "title": "FANCY",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "FANCY YOU",
+    "releaseDate": "2019-04-22"
+  },
+  {
+    "id": 12,
+    "title": "TT",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "TWICEcoaster: LANE 1",
+    "releaseDate": "2016-10-24"
+  },
+  {
+    "id": 13,
+    "title": "Cheer Up",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "PAGE TWO",
+    "releaseDate": "2016-04-25"
+  },
+  {
+    "id": 14,
+    "title": "What is Love?",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "What is Love?",
+    "releaseDate": "2018-04-09"
+  },
+  {
+    "id": 15,
+    "title": "I Can't Stop Me",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "Eyes Wide Open",
+    "releaseDate": "2020-10-26"
+  },
+  {
+    "id": 16,
+    "title": "Love Scenario",
+    "artist": "iKON",
+    "group": "iKON",
+    "album": "Return",
+    "releaseDate": "2018-01-25"
+  },
+  {
+    "id": 17,
+    "title": "Rhythm Ta",
+    "artist": "iKON",
+    "group": "iKON",
+    "album": "Welcome Back",
+    "releaseDate": "2015-10-01"
+  },
+  {
+    "id": 18,
+    "title": "DNA",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Love Yourself: Her",
+    "releaseDate": "2017-09-18"
+  },
+  {
+    "id": 19,
+    "title": "IDOL",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Love Yourself: Answer",
+    "releaseDate": "2018-08-24"
+  },
+  {
+    "id": 20,
+    "title": "Spring Day",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "You Never Walk Alone",
+    "releaseDate": "2017-02-13"
+  },
+  {
+    "id": 21,
+    "title": "Blood Sweat & Tears",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Wings",
+    "releaseDate": "2016-10-10"
+  },
+  {
+    "id": 22,
+    "title": "Fake Love",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Love Yourself: Tear",
+    "releaseDate": "2018-05-18"
+  },
+  {
+    "id": 23,
+    "title": "Boy With Luv",
+    "artist": "BTS ft. Halsey",
+    "group": "BTS",
+    "album": "Map of the Soul: Persona",
+    "releaseDate": "2019-04-12"
+  },
+  {
+    "id": 24,
+    "title": "ON",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "Map of the Soul: 7",
+    "releaseDate": "2020-02-21"
+  },
+  {
+    "id": 25,
+    "title": "Life Goes On",
+    "artist": "BTS",
+    "group": "BTS",
+    "album": "BE",
+    "releaseDate": "2020-11-20"
+  },
+  {
+    "id": 26,
+    "title": "God's Menu",
+    "artist": "Stray Kids",
+    "group": "Stray Kids",
+    "album": "GO生",
+    "releaseDate": "2020-06-17"
+  },
+  {
+    "id": 27,
+    "title": "Back Door",
+    "artist": "Stray Kids",
+    "group": "Stray Kids",
+    "album": "IN生",
+    "releaseDate": "2020-09-14"
+  },
+  {
+    "id": 28,
+    "title": "MANIAC",
+    "artist": "Stray Kids",
+    "group": "Stray Kids",
+    "album": "ODDINARY",
+    "releaseDate": "2022-03-18"
+  },
+  {
+    "id": 29,
+    "title": "Thunderous",
+    "artist": "Stray Kids",
+    "group": "Stray Kids",
+    "album": "NOEASY",
+    "releaseDate": "2021-08-23"
+  },
+  {
+    "id": 30,
+    "title": "CASE 143",
+    "artist": "Stray Kids",
+    "group": "Stray Kids",
+    "album": "MAXIDENT",
+    "releaseDate": "2022-10-07"
+  },
+  {
+    "id": 31,
+    "title": "Growl",
+    "artist": "EXO",
+    "group": "EXO",
+    "album": "XOXO",
+    "releaseDate": "2013-08-05"
+  },
+  {
+    "id": 32,
+    "title": "Call Me Baby",
+    "artist": "EXO",
+    "group": "EXO",
+    "album": "EXODUS",
+    "releaseDate": "2015-03-31"
+  },
+  {
+    "id": 33,
+    "title": "Love Shot",
+    "artist": "EXO",
+    "group": "EXO",
+    "album": "Love Shot",
+    "releaseDate": "2018-12-13"
+  },
+  {
+    "id": 34,
+    "title": "Monster",
+    "artist": "EXO",
+    "group": "EXO",
+    "album": "EX'ACT",
+    "releaseDate": "2016-06-09"
+  },
+  {
+    "id": 35,
+    "title": "Ko Ko Bop",
+    "artist": "EXO",
+    "group": "EXO",
+    "album": "The War",
+    "releaseDate": "2017-07-18"
+  },
+  {
+    "id": 36,
+    "title": "WANNABE",
+    "artist": "ITZY",
+    "group": "ITZY",
+    "album": "IT'z ME",
+    "releaseDate": "2020-03-09"
+  },
+  {
+    "id": 37,
+    "title": "DALLA DALLA",
+    "artist": "ITZY",
+    "group": "ITZY",
+    "album": "IT'z Different",
+    "releaseDate": "2019-02-12"
+  },
+  {
+    "id": 38,
+    "title": "ICY",
+    "artist": "ITZY",
+    "group": "ITZY",
+    "album": "IT'z ICY",
+    "releaseDate": "2019-07-29"
+  },
+  {
+    "id": 39,
+    "title": "Not Shy",
+    "artist": "ITZY",
+    "group": "ITZY",
+    "album": "Not Shy",
+    "releaseDate": "2020-08-17"
+  },
+  {
+    "id": 40,
+    "title": "LOCO",
+    "artist": "ITZY",
+    "group": "ITZY",
+    "album": "CRAZY IN LOVE",
+    "releaseDate": "2021-09-24"
+  },
+  {
+    "id": 41,
+    "title": "Psycho",
+    "artist": "Red Velvet",
+    "group": "Red Velvet",
+    "album": "The ReVe Festival: Finale",
+    "releaseDate": "2019-12-23"
+  },
+  {
+    "id": 42,
+    "title": "Bad Boy",
+    "artist": "Red Velvet",
+    "group": "Red Velvet",
+    "album": "The Perfect Red Velvet",
+    "releaseDate": "2018-01-29"
+  },
+  {
+    "id": 43,
+    "title": "Peek-A-Boo",
+    "artist": "Red Velvet",
+    "group": "Red Velvet",
+    "album": "Perfect Velvet",
+    "releaseDate": "2017-11-17"
+  },
+  {
+    "id": 44,
+    "title": "Red Flavor",
+    "artist": "Red Velvet",
+    "group": "Red Velvet",
+    "album": "The Red Summer",
+    "releaseDate": "2017-07-09"
+  },
+  {
+    "id": 45,
+    "title": "Dumb Dumb",
+    "artist": "Red Velvet",
+    "group": "Red Velvet",
+    "album": "The Red",
+    "releaseDate": "2015-09-09"
+  },
+  {
+    "id": 46,
+    "title": "Feel Special",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "Feel Special",
+    "releaseDate": "2019-09-23"
+  },
+  {
+    "id": 47,
+    "title": "Alcohol-Free",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "Taste of Love",
+    "releaseDate": "2021-06-09"
+  },
+  {
+    "id": 48,
+    "title": "The Feels",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "Formula of Love: O+T=<3",
+    "releaseDate": "2021-10-01"
+  },
+  {
+    "id": 49,
+    "title": "Talk that Talk",
+    "artist": "TWICE",
+    "group": "TWICE",
+    "album": "Between 1&2",
+    "releaseDate": "2022-08-26"
+  },
+  {
+    "id": 50,
+    "title": "Magnetic",
+    "artist": "ILLIT",
+    "group": "ILLIT",
+    "album": "SUPER REAL ME",
+    "releaseDate": "2024-03-25"
+  },
+  {
+    "id": 51,
+    "title": "FEARLESS",
+    "artist": "LE SSERAFIM",
+    "group": "LE SSERAFIM",
+    "album": "FEARLESS",
+    "releaseDate": "2022-05-02"
+  },
+  {
+    "id": 52,
+    "title": "ANTIFRAGILE",
+    "artist": "LE SSERAFIM",
+    "group": "LE SSERAFIM",
+    "album": "ANTIFRAGILE",
+    "releaseDate": "2022-10-17"
+  },
+  {
+    "id": 53,
+    "title": "Unforgiven",
+    "artist": "LE SSERAFIM ft. Nile Rodgers",
+    "group": "LE SSERAFIM",
+    "album": "UNFORGIVEN",
+    "releaseDate": "2023-05-01"
+  },
+  {
+    "id": 54,
+    "title": "Perfect Night",
+    "artist": "LE SSERAFIM",
+    "group": "LE SSERAFIM",
+    "album": "Perfect Night",
+    "releaseDate": "2023-10-27"
+  },
+  {
+    "id": 55,
+    "title": "EASY",
+    "artist": "LE SSERAFIM",
+    "group": "LE SSERAFIM",
+    "album": "EASY",
+    "releaseDate": "2024-02-19"
+  },
+  {
+    "id": 56,
+    "title": "DITTO",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "OMG",
+    "releaseDate": "2022-12-19"
+  },
+  {
+    "id": 57,
+    "title": "OMG",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "OMG",
+    "releaseDate": "2023-01-02"
+  },
+  {
+    "id": 58,
+    "title": "Attention",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "NewJeans",
+    "releaseDate": "2022-07-22"
+  },
+  {
+    "id": 59,
+    "title": "Hype Boy",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "NewJeans",
+    "releaseDate": "2022-08-01"
+  },
+  {
+    "id": 60,
+    "title": "Super Shy",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "Get Up",
+    "releaseDate": "2023-07-07"
+  },
+  {
+    "id": 61,
+    "title": "ETA",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "Get Up",
+    "releaseDate": "2023-07-07"
+  },
+  {
+    "id": 62,
+    "title": "Gods",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "Gods",
+    "releaseDate": "2023-10-04"
+  },
+  {
+    "id": 63,
+    "title": "According to My Heart",
+    "artist": "IU",
+    "group": "Solo",
+    "album": "Last Fantasy",
+    "releaseDate": "2011-11-29"
+  },
+  {
+    "id": 64,
+    "title": "Good Day",
+    "artist": "IU",
+    "group": "Solo",
+    "album": "Real",
+    "releaseDate": "2010-12-09"
+  },
+  {
+    "id": 65,
+    "title": "Palette",
+    "artist": "IU ft. G-Dragon",
+    "group": "Solo",
+    "album": "Palette",
+    "releaseDate": "2017-04-21"
+  },
+  {
+    "id": 66,
+    "title": "BBIBBI",
+    "artist": "IU",
+    "group": "Solo",
+    "album": "BBIBBI",
+    "releaseDate": "2018-10-10"
+  },
+  {
+    "id": 67,
+    "title": "Celebrity",
+    "artist": "IU",
+    "group": "Solo",
+    "album": "Celebrity",
+    "releaseDate": "2021-01-27"
+  },
+  {
+    "id": 68,
+    "title": "Eight",
+    "artist": "IU ft. Suga",
+    "group": "Solo",
+    "album": "Eight",
+    "releaseDate": "2020-05-06"
+  },
+  {
+    "id": 69,
+    "title": "Love Dive",
+    "artist": "IVE",
+    "group": "IVE",
+    "album": "LOVE DIVE",
+    "releaseDate": "2022-04-05"
+  },
+  {
+    "id": 70,
+    "title": "ELEVEN",
+    "artist": "IVE",
+    "group": "IVE",
+    "album": "ELEVEN",
+    "releaseDate": "2021-12-01"
+  },
+  {
+    "id": 71,
+    "title": "After LIKE",
+    "artist": "IVE",
+    "group": "IVE",
+    "album": "After LIKE",
+    "releaseDate": "2022-08-22"
+  },
+  {
+    "id": 72,
+    "title": "Kitsch",
+    "artist": "IVE",
+    "group": "IVE",
+    "album": "I've IVE",
+    "releaseDate": "2023-04-10"
+  },
+  {
+    "id": 73,
+    "title": "I AM",
+    "artist": "IVE",
+    "group": "IVE",
+    "album": "I've IVE",
+    "releaseDate": "2023-04-10"
+  },
+  {
+    "id": 74,
+    "title": "Baddie",
+    "artist": "IVE",
+    "group": "IVE",
+    "album": "I've MINE",
+    "releaseDate": "2023-10-13"
+  },
+  {
+    "id": 75,
+    "title": "Next Level",
+    "artist": "aespa",
+    "group": "aespa",
+    "album": "Next Level",
+    "releaseDate": "2021-05-17"
+  },
+  {
+    "id": 76,
+    "title": "Savage",
+    "artist": "aespa",
+    "group": "aespa",
+    "album": "Savage",
+    "releaseDate": "2021-10-05"
+  },
+  {
+    "id": 77,
+    "title": "Black Mamba",
+    "artist": "aespa",
+    "group": "aespa",
+    "album": "Black Mamba",
+    "releaseDate": "2020-11-17"
+  },
+  {
+    "id": 78,
+    "title": "Girls",
+    "artist": "aespa",
+    "group": "aespa",
+    "album": "Girls",
+    "releaseDate": "2022-07-08"
+  },
+  {
+    "id": 79,
+    "title": "Spicy",
+    "artist": "aespa",
+    "group": "aespa",
+    "album": "MY WORLD",
+    "releaseDate": "2023-05-08"
+  },
+  {
+    "id": 80,
+    "title": "Drama",
+    "artist": "aespa",
+    "group": "aespa",
+    "album": "Drama",
+    "releaseDate": "2023-11-10"
+  },
+  {
+    "id": 81,
+    "title": "Zero",
+    "artist": "NewJeans",
+    "group": "NewJeans",
+    "album": "Zero",
+    "releaseDate": "2024-04-12"
+  },
+  {
+    "id": 82,
+    "title": "Left & Right",
+    "artist": "SEVENTEEN",
+    "group": "SEVENTEEN",
+    "album": "Face the Sun",
+    "releaseDate": "2022-05-27"
+  },
+  {
+    "id": 83,
+    "title": "Don't Wanna Cry",
+    "artist": "SEVENTEEN",
+    "group": "SEVENTEEN",
+    "album": "Al1",
+    "releaseDate": "2017-05-22"
+  },
+  {
+    "id": 84,
+    "title": "Very Nice",
+    "artist": "SEVENTEEN",
+    "group": "SEVENTEEN",
+    "album": "Love & Letter",
+    "releaseDate": "2016-07-04"
+  },
+  {
+    "id": 85,
+    "title": "HOT",
+    "artist": "SEVENTEEN",
+    "group": "SEVENTEEN",
+    "album": "Face the Sun",
+    "releaseDate": "2022-05-27"
+  },
+  {
+    "id": 86,
+    "title": "Super",
+    "artist": "SEVENTEEN",
+    "group": "SEVENTEEN",
+    "album": "FML",
+    "releaseDate": "2023-04-24"
+  },
+  {
+    "id": 87,
+    "title": "As If It's Your Last",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "As If It's Your Last",
+    "releaseDate": "2017-06-22"
+  },
+  {
+    "id": 88,
+    "title": "Playing with Fire",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "SQUARE TWO",
+    "releaseDate": "2016-11-01"
+  },
+  {
+    "id": 89,
+    "title": "Lovesick Girls",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "THE ALBUM",
+    "releaseDate": "2020-10-02"
+  },
+  {
+    "id": 90,
+    "title": "Ice Cream",
+    "artist": "BLACKPINK & Selena Gomez",
+    "group": "BLACKPINK",
+    "album": "THE ALBUM",
+    "releaseDate": "2020-08-28"
+  },
+  {
+    "id": 91,
+    "title": "Forever Young",
+    "artist": "BLACKPINK",
+    "group": "BLACKPINK",
+    "album": "SQUARE UP",
+    "releaseDate": "2018-06-15"
+  },
+  {
+    "id": 92,
+    "title": "Crown",
+    "artist": "TOMORROW X TOGETHER",
+    "group": "TOMORROW X TOGETHER",
+    "album": "The Dream Chapter: STAR",
+    "releaseDate": "2019-03-04"
+  },
+  {
+    "id": 93,
+    "title": "0X1=LOVESONG",
+    "artist": "TOMORROW X TOGETHER",
+    "group": "TOMORROW X TOGETHER",
+    "album": "The Chaos Chapter: FREEZE",
+    "releaseDate": "2021-05-31"
+  },
+  {
+    "id": 94,
+    "title": "Sugar Rush Ride",
+    "artist": "TOMORROW X TOGETHER",
+    "group": "TOMORROW X TOGETHER",
+    "album": "The Name Chapter: TEMPTATION",
+    "releaseDate": "2023-01-27"
+  },
+  {
+    "id": 95,
+    "title": "Chasing That Feeling",
+    "artist": "TOMORROW X TOGETHER",
+    "group": "TOMORROW X TOGETHER",
+    "album": "The Name Chapter: FREEFALL",
+    "releaseDate": "2023-10-13"
+  },
+  {
+    "id": 96,
+    "title": "Good Boy Gone Bad",
+    "artist": "TOMORROW X TOGETHER",
+    "group": "TOMORROW X TOGETHER",
+    "album": "minisode 2: Thursday's Child",
+    "releaseDate": "2022-05-09"
+  },
+  {
+    "id": 97,
+    "title": "Like Crazy",
+    "artist": "Jimin",
+    "group": "Solo",
+    "album": "FACE",
+    "releaseDate": "2023-03-24"
+  },
+  {
+    "id": 98,
+    "title": "Seven",
+    "artist": "Jungkook ft. Latto",
+    "group": "Solo",
+    "album": "Seven",
+    "releaseDate": "2023-07-14"
+  },
+  {
+    "id": 99,
+    "title": "Flower",
+    "artist": "Jisoo",
+    "group": "Solo",
+    "album": "ME",
+    "releaseDate": "2023-03-31"
+  },
+  {
+    "id": 100,
+    "title": "APT.",
+    "artist": "ROSÉ & Bruno Mars",
+    "group": "Solo",
+    "album": "rosie",
+    "releaseDate": "2024-10-18"
+  }
+]
