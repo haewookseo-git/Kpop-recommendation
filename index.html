@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kpop Songs Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Kpop Songs Tracker</h1>
+            <p class="subtitle">Track and rate your favorite Kpop songs</p>
+        </header>
+
+        <div class="stats-section">
+            <div class="stat-card">
+                <div class="stat-number" id="totalSongs">0</div>
+                <div class="stat-label">Total Songs</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="listenedSongs">0</div>
+                <div class="stat-label">Listened</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="notListenedSongs">0</div>
+                <div class="stat-label">Not Listened</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="avgRating">0.0</div>
+                <div class="stat-label">Avg Rating</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search songs, artists, or albums...">
+            </div>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="listened">Listened</button>
+                <button class="filter-btn" data-filter="not-listened">Not Listened</button>
+                <button class="filter-btn" data-filter="rated">Rated</button>
+            </div>
+            <div class="sort-controls">
+                <label for="sortBy">Sort by:</label>
+                <select id="sortBy">
+                    <option value="default">Default</option>
+                    <option value="title">Title</option>
+                    <option value="artist">Artist</option>
+                    <option value="date-new">Release Date (Newest)</option>
+                    <option value="date-old">Release Date (Oldest)</option>
+                    <option value="rating">Rating</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="songs-container" id="songsContainer">
+            <!-- Songs will be dynamically loaded here -->
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
